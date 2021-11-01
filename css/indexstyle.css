@@ -2,6 +2,6 @@
     border-radius: 30px;
 }
 
-.body {
-    background-image: url(../pic/bg/bg1.png");
+body {
+    background: url(../pic/bg/bg1.png");
    }
