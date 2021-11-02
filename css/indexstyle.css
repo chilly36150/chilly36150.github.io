@@ -8,5 +8,5 @@ body {
    }
 
 p.body{
-    text-shadow: 1px 1px 1px;
+    text-shadow: 1px 1px #000;
 }
