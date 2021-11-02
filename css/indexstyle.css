@@ -7,6 +7,6 @@ body {
     background-color: #b3b3b3;
    }
 
-p.body{
+.shadow{
     text-shadow: 1px 1px #000;
 }
